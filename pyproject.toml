@@ -9,4 +9,5 @@ dependencies = [
     "langchain>=1.2.14",
     "langchain-community>=0.4.1",
     "langchain-ollama>=1.0.1",
+    "langgraph>=1.1.4",
 ]

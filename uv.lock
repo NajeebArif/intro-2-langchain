@@ -330,6 +330,7 @@ dependencies = [
     { name = "langchain" },
     { name = "langchain-community" },
     { name = "langchain-ollama" },
+    { name = "langgraph" },
 ]
 
 [package.metadata]
@@ -338,6 +339,7 @@ requires-dist = [
     { name = "langchain", specifier = ">=1.2.14" },
     { name = "langchain-community", specifier = ">=0.4.1" },
     { name = "langchain-ollama", specifier = ">=1.0.1" },
+    { name = "langgraph", specifier = ">=1.1.4" },
 ]
 
 [[package]]
