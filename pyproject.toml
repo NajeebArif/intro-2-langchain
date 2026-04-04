@@ -10,6 +10,7 @@ dependencies = [
     "ipywidgets>=8.1.8",
     "langchain>=1.2.14",
     "langchain-community>=0.4.1",
+    "langchain-core>=1.2.23",
     "langchain-mcp-adapters>=0.2.2",
     "langchain-ollama>=1.0.1",
     "langgraph>=1.1.4",
